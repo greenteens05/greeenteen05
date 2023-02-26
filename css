@@ -1,0 +1,58 @@
+body{
+    background-color: #E5D0BB;
+    text-align: center;
+}
+
+h1{
+    color: #4C711C;
+    background-color: #CCAC86;
+    font-size: 2.75em;
+    font-family: "new times roman";
+    text-align: justify;
+}
+
+h2{
+    color: #94825D;
+    font-size: 2em;
+    font-family: "arial";
+    text-align: justify;
+}
+
+h3{
+    background-color: #CCAC86;
+    font-size: 1.35em;
+    font-family: "arial";
+}
+
+h4:hover{
+    background-color:#94825D;
+}
+
+p{
+    color: #000000;
+    font-size: 1.35em;
+    font-family: "arial";
+    text-align: justify;
+}
+
+ins{
+    background-color: #CCAC86;
+    font-family: "arial";
+    text-decoration: none;
+}
+
+table{
+    border: 0cm;
+    text-align: center;
+}
+
+td{
+    color: #000000;
+    text-align: center;
+}
+
+.centrado{
+    text-align: center;
+    margin:0 auto;
+}
+
